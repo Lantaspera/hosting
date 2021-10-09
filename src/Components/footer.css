@@ -1,0 +1,45 @@
+
+.main-row{
+    width: 100vw;
+    height: 350px;
+    /* opacity: 0.75; */
+    background:black;
+    color: white;
+    
+}
+.main-clm{
+    margin-left: 40%;
+    
+}
+.main-title{
+    font-style: italic;
+font-weight: normal;
+font-size: 15px;
+
+
+
+}
+.subs-title{
+    font-style: normal;
+font-weight: normal;
+font-size: 13px;
+
+
+}
+.copyryt{
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+padding-left: 10%;
+text-align: center;
+}
+.main-pictr{
+    width: 20%;
+    height: 15%;
+    background:black;
+    position: absolute;
+
+ margin-left: 20%;
+
+}
